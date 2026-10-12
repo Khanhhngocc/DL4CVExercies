@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: happy-sad-image-classifier
+Version: 0.1.0
+Requires-Python: >=3.10
+Requires-Dist: tensorflow
+Requires-Dist: opencv-python
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Provides-Extra: dev
+Requires-Dist: jupyterlab; extra == "dev"
+Requires-Dist: ipykernel; extra == "dev"
